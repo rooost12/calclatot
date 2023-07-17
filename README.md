@@ -29,3 +29,4 @@ while continue_calculating is True:
     yes_or_no = input('Continue? (y/n): ')
     if yes_or_no == 'n':
         continue_calculating = False
+        if
